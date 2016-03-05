@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./trivmphusiesuchr00ricc_0168.png"; bbox 0 0 1664 2766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 206 960 1480 1172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 206 960 1480 1172">
+     <span class='ocr_line' id='line_1_1' title="bbox 516 960 1174 1025; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 516 960 647 1015; x_wconf 78' lang='lat' dir='ltr'><strong>AN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 675 961 865 1016; x_wconf 86' lang='lat' dir='ltr'><strong>TVE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 893 961 1174 1025; x_wconf 78' lang='lat' dir='ltr'>RP1AE‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 206 1105 1480 1172; baseline -0.004 -7"><span class='ocrx_word' id='word_1_4' title='bbox 206 1105 312 1166; x_wconf 88' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 353 1107 783 1163; x_wconf 86' lang='lat' dir='ltr'><strong>OFFICINA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 827 1107 1480 1172; x_wconf 79' lang='lat' dir='ltr'>PLANT1N1ANA,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 1233 1279 1327">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 1233 1279 1327">
+     <span class='ocr_line' id='line_1_3' title="bbox 413 1233 1279 1327; baseline 0.005 -28"><span class='ocrx_word' id='word_1_7' title='bbox 413 1233 601 1327; x_wconf 87' lang='lat' dir='ltr'>Apud</span> <span class='ocrx_word' id='word_1_8' title='bbox 630 1238 920 1301; x_wconf 85' lang='lat' dir='ltr'><strong>Ioannem</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 946 1239 1279 1303; x_wconf 86' lang='lat' dir='ltr'><strong>Moretum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 573 1400 1127 1458">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 573 1400 1127 1458">
+     <span class='ocr_line' id='line_1_4' title="bbox 573 1400 1127 1458; baseline -0.004 -3"><span class='ocrx_word' id='word_1_10' title='bbox 573 1401 664 1458; x_wconf 70' lang='lat' dir='ltr'><strong>M,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 730 1400 866 1456; x_wconf 86' lang='lat' dir='ltr'><strong>DC.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 948 1402 1127 1457; x_wconf 85' lang='lat' dir='ltr'><strong>VIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
